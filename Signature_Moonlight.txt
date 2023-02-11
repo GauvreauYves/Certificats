@@ -1,0 +1,17 @@
+
+Signatures pour le certificat d'authenticité de la photo Moonlight et la version miniature de la photo.
+
+Lors de la vente de mes photos je vous ai envoyé ces deux fichiers par courriel, donc pour vérifier leur authenticité vous pouvez utiliser ce site:
+
+https://cryptage.online-convert.com/fr/generateur-sha256
+
+Vous n'avez qu'à téléverser chacun des fichiers, un à la fois et générer la signature la version HEX devrait être exactement comme ci-dessous pour chacun des fichiers.
+
+
+Name: Certificat_Moonlight.pdf
+Size: 567525 bytes (554 KiB)
+SHA256: 550D1A4E0400FEA8568517280D70BDAEAFB8C8378707D1862986B5052A97C316
+
+Name: Thumb__Moonlight.jpg
+Size: 761729 bytes (743 KiB)
+SHA256: B8743D3C9479D5FBDAEA7D29C332861CDDF47B4D03D2FFF15FE3A1737B43DCB1
